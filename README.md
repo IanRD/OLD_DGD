@@ -1,2 +1,2 @@
 # OLD_DGD
-Game related content for digital game development
+Game related content for digital game development + old docs
